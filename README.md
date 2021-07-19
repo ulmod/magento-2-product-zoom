@@ -1,7 +1,7 @@
 # Magento 2 Product Zoom Extension
 
 [Magento 2 Product Zoom](https://www.ulmod.com/magento-2-product-zoom-extension.html)  is a Magento 2 extension that extends the default Magento 2 
-zoom with a bunch of great features such as window zoom, inner zoom, lens zoom, thumbnails slider, lightbox, and more.
+product image display with a bunch of great features such as window zoom, inner zoom, lens zoom, thumbnails slider, lightbox, and more.
 
 With Magento 2 Product Zoom, you can offer extraordinary product experiences to your shoppers, allowing them to view high-resolution images interactively.
 
